@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=arrayToChange
+comment0.target=void\ changeReference(int[])
+comment1.params=arrayToChange
+comment1.target=void\ changeValues(int[])
+comment2.params=
+comment2.target=ArraysInMemory()
+comment3.params=
+comment3.target=void\ forEachLoop()
+comment4.params=s
+comment4.target=void\ print(java.lang.String)
+comment5.params=b
+comment5.target=void\ print(boolean[])
+comment6.params=nums
+comment6.target=void\ print(int[])
+numComments=7

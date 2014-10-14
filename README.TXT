@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: CompSci Notes
+PURPOSE OF PROJECT: To Take IB Notes
+VERSION or DATE: N.A. Always Growing
+HOW TO START THIS PROJECT: Read my code, predict the results, run and test it out.
+AUTHORS: Amr El-Azizi and Mr. Morris, my Comp Sci Teacher
+USER INSTRUCTIONS: It's Self Explanitory

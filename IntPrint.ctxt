@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IntPrint()
+comment1.params=n
+comment1.target=void\ printint(int)
+comment2.params=n
+comment2.target=void\ forwardprintint(int)
+comment3.params=z
+comment3.target=void\ printDigits(int)
+numComments=4
